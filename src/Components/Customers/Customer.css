@@ -1,0 +1,12 @@
+.headindclass{
+    text-align: center;
+    font-size: 21px;
+    font-weight: 900;
+}
+.ss{
+    padding: 23px 39px !important;
+}
+.dailogbtnclose{
+    float: right;
+    cursor: pointer;
+}

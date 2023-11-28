@@ -1,0 +1,17 @@
+@media only screen and (min-width: 600px) {
+    .sidebarmobileview {
+      display: none !important;
+    }
+
+  }
+
+  /* @media only screen and (max-width: 601px) {
+ .desktopview {
+      display: block !important; 
+    }
+    
+  } */
+  .font_size_name{
+    font-size: 26px !important;
+    font-variant: all-small-caps !important;
+  }
